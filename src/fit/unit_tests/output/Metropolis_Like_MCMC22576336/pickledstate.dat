@@ -1,0 +1,16 @@
+ccopy_reg
+_reconstructor
+p1
+(cfit.mcmc
+Metropolis_Like_MCMC
+p2
+c__builtin__
+object
+p3
+NtRp4
+(dp5
+S'targetacceptance'
+p6
+F0.29999999999999999
+sS'acceptancefunction'
+p7

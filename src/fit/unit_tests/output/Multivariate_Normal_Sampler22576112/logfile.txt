@@ -1,0 +1,6 @@
+=== Log entry at Tue, 14 Aug 2012 17:12:49===
+covariance set to None
+=== Log entry at Tue, 14 Aug 2012 17:12:49===
+scale set, see scale file
+=== Log entry at Tue, 14 Aug 2012 17:12:49===
+init complete
